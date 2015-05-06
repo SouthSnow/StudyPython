@@ -54,5 +54,5 @@ if __name__ == '__main__':
 	folder = input("please enter a folder(default is 'ooxx'):")
 	pages = input("How many pages do you wan to dowm(default is 10):")
 	download_mm(str(folder),int(pages))
-
+	print 'hahha'
 
