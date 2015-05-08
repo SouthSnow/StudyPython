@@ -1,0 +1,3 @@
+import os, sys
+
+SYS.PATH.APPEND(OS.PATH.ABSPATH(OS.PATH.JOIN(OS.PATH.DIRNAME(__FILE__), '..')))
